@@ -1,2 +1,33 @@
-# devops-2026-roadmap
-Structured DevOps journey. Includes Linux fundamentals, AWS infrastructure, Docker, Kubernetes, Terraform, CI/CD pipelines, monitoring, and DevSecOps projects with documentation.
+# DevOps Engineering Roadmap – 2026
+
+## About Me
+Computer Science student building production-level DevOps skills from scratch.
+
+## Objective
+Become a job-ready DevOps Engineer capable of managing cloud-native infrastructure and secure a remote $100,000+ role by the end of 2026.
+
+## Core Stack Focus
+- Linux System Administration
+- Networking Fundamentals
+- AWS Cloud Infrastructure
+- Docker & Containerization
+- Kubernetes & Helm
+- Terraform (Infrastructure as Code)
+- CI/CD (GitHub Actions, Jenkins)
+- Monitoring & Observability (Prometheus, Grafana)
+- DevSecOps & Security Practices
+
+## AI-Enhanced Workflow
+- Using AI tools for debugging, documentation, and automation.
+- Building repeatable DevOps workflows assisted by AI agents.
+- Focusing on architecture thinking and troubleshooting (AI-resistant skills).
+
+## Weekly Progress Tracker
+
+| Week | Dates | Focus | Status |
+|------|--------|--------|---------|
+| 1 | Feb 20 – Feb 26 | Linux Foundations | In Progress |
+| 2 | Feb 27 – Mar 5 | Networking + SSH | Pending |
+| 3 | Mar 6 – Mar 12 | AWS Fundamentals | Pending |
+
+## Repository Structure (Planned)
