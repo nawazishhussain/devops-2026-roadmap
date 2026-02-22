@@ -31,3 +31,14 @@ Become a job-ready DevOps Engineer capable of managing cloud-native infrastructu
 | 3 | Mar 6 – Mar 12 | AWS Fundamentals | Pending |
 
 ## Repository Structure (Planned)
+
+notes/
+scripts/
+terraform/
+kubernetes/
+cicd/
+monitoring/
+
+---
+
+This repository documents real hands-on work. No theory-only notes.
